@@ -1,0 +1,3 @@
+file logging1.py has an example where we have used default logger and save a log massages in separate file logging1.log .
+file logging2.py has same example as logging1.py example but in this i have used custom logger and save all log messages to a separate file logging2.log .
+file logging3.py has an example of class employee and i have used custom logger to save all log massages in separate file logging3.log . 
